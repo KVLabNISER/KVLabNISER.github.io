@@ -26,6 +26,10 @@ layout: page
         font-size: 16px;
         text-align: center;
     }
+    .logo {
+        width: 400px;
+        height: 400px;
+    }
     @media (max-width: 768px)
     {
     .img_cont {
@@ -55,9 +59,9 @@ layout: page
 
 <body>
 <center>
-<img src="/images/Picture1.png">
+<img class="logo" src="/images/Picture1.png">
 <h1 style="font-family: Times New Roman; font-size: 48px;">V Krishnan Research Lab</h1>
-<h3 style="color: #ff8c00; font-family: cursive; font-size: 36px; text-shadow: 2px 2px black;">Hybrid Materials and Catalysis Lab</h3>
+<h3 style="color: #ff8c00; font-family: comic; font-size: 36px; text-shadow: 2px 2px black;">Hybrid Materials and Catalysis Lab</h3>
 <br>
 <br>
 </center>
