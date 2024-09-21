@@ -10,6 +10,7 @@ title: Gallery
         width: 100%;
         justify-content: space-between;
         flex-direction: row;
+        margin: 0 10px 0 10px;
     }
     .img_item {
         width: 50%;
