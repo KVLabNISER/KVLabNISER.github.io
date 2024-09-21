@@ -382,7 +382,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -397,7 +397,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -409,7 +409,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -421,7 +421,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -433,7 +433,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -448,7 +448,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -460,7 +460,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -472,7 +472,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -484,7 +484,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -499,7 +499,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -511,7 +511,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -523,7 +523,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -535,7 +535,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -547,7 +547,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -559,7 +559,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -574,7 +574,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -586,7 +586,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -598,7 +598,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -610,7 +610,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -625,7 +625,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
@@ -637,7 +637,7 @@ permalink: /publications/
 </div>
 <div class="item">
 <br>
-<a href="">View</a>
+<a href="https://scholar.google.co.in/scholar?oi=bibs&cluster=10581009936456542480&btnI=1&hl=en">View</a>
 </div>
 </div>
 
