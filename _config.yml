@@ -23,7 +23,7 @@ email: kvlab2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My group specializes in Inorganic, Organic and Polymer Chemistry. We focus on the developement of new synthetic routes for application in catalysis and materials chemistry.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kvlabniser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KVLAB_1234
 
 # Build settings
