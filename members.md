@@ -139,18 +139,6 @@ permalink: /members/
     bikasc.panigrahi@niser.ac.in
     </div>
     </div>
-    <div class="img_item">
-    <span></span>
-    <div class="item_data">
-    <br>
-    <span style="font-weight: bold;"></span>
-    <br>
-    <br>
-    <span style="color: magenta;"></span>
-    <br><br>
-    <span></span>
-    </div>
-    </div>
 </div>
 
 <br>
@@ -236,7 +224,7 @@ permalink: /members/
 To view our complete Alumni list, click <a href=" {{ '/images/alumni/' | relative_url }}">here.</a>
 <br>
 <br>
-To contact the web developer of this website, click <a href="https://www.linkedin.com/in/aditya-mridul-069646288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">here.</a>
+For websites like this, click <a href="https://www.linkedin.com/in/aditya-mridul-069646288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">here.</a>
 
 
 
