@@ -139,6 +139,16 @@ permalink: /members/
     bikasc.panigrahi@niser.ac.in
     </div>
     </div>
+    <div class="img_item">
+    <div class="item_data">
+    <br>
+    <span style="font-weight: bold;"></span>
+    <br>
+    <br>
+    <span style="color: magenta;"></span>
+    <br><br>
+    </div>
+    </div>
 </div>
 
 <br>
