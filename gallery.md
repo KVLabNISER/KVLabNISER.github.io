@@ -33,26 +33,26 @@ title: Gallery
     {
     .img_cont {
         display: flex;
-        width: 100%;
+        width: 97%;
         justify-content: space-between;
         flex-direction: column;
+        margin-bottom: none;
     }
     .img_item {
         width: 100%;
         align-items: center;
-        padding: 5px 15px 5px 0px;
-        margin-bottom: 5px;
+        padding: 5px 15px 0px 0px;
     }
     img {
         height: 200px;
-        width: 100%;
+        width: 90%;
         object-fit: cover;
         border-radius: 25px 25px 25px 25px;
         border: solid 5px black;
     }
     .item_data {
         width: 100%;
-        font-size: 16px;
+        font-size: 18px;
         text-align: center;  
     }
     }
@@ -134,6 +134,8 @@ title: Gallery
 <li>Acid Chamber</li>
 <li>Dessicators</li>
 <li>Ovens</li>
+</ul>
+</p>
 
 <br>
 <button class="heading">Our Moments:</button>
