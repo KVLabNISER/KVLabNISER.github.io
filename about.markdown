@@ -5,21 +5,15 @@ permalink: /about/
 ---
 <hr>
 <br>
-<div class="imagedata">
-<div class="imagedatatext">
-<h1 style="font-size: 30px; font-weight: bold;">Dr. Venkattasubbaiah Krishnan</h1>
-<h2 style="color: black">Associate Professor<br>School of Chemical Sciences<br>National Institute of Science Education and Research (NISER)
-<br>Orissa-752050 , India<br></h2>
-</div>
-<div class="imagedatatext">
 <br>
-<br>
-<img id="okay" src="/images/sir.png" style="border-radius: 55px 55px 55px 55px;" height="250px" width="450px">
-</div>
-</div>
-<br>
+<img float="left" style="border-radius: 100px; border: solid 2px black; margin-right: 30px;" align=left src="/images/sir.png" height= "300" width= "300">
+<p style="font-weight: bold; font-size: xx-large; text-decoration: underline;">Dr. Venkatasubbaiah Krishnan</p>
+<p style="font-size: 23px;">Associate Professor<br>School of Chemical Sciences<br>National Institute of Science Education and Research (NISER)
+<br>Orissa-752050 , India<br>
+</p>
 
-
+<br>
+<br>
 <button class="heading">Educational Qualifications:</button>
 <br>
 <ul>
