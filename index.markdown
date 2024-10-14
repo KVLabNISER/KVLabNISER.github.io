@@ -15,7 +15,7 @@ layout: page
         align-items: center;
         padding: 5px 15px 5px 0px;
     }
-    .hoho {
+    .inimg {
         height: 280px;
         width: 100%;
         object-fit: cover;
@@ -70,7 +70,7 @@ layout: page
 <div class="imagedatatext">
 <br>
 <br>
-<img id="okay" class="hoho" src="/images/chem4.jpg" height="300px" width="700px" alt="Image 1">
+<img id="okay" class="inimg" src="/images/chem4.jpg" height="300px" width="700px" alt="Image 1">
 </div>
 <div class="imagedatatext">
 <center><button class="heading">Latest News:</button></center>
@@ -98,7 +98,7 @@ layout: page
 <div class="imagedatatext">
 <br>
 <br>
-<img id="okay" class="hoho" src="/images/chem2.jpg" alt="Image 2">
+<img id="okay" class="inimg" src="/images/chem2.jpg" alt="Image 2">
 </div>
 </div>
 
@@ -115,13 +115,13 @@ Chemistry requires patience, time, and diligence. Here are a few glimpses from o
 <br>
 <div class="img_cont">
     <div class="img_item">
-    <img class="hoho" src="/images/gl1.jpg" style="object-fit: cover;">
+    <img class="inimg" src="/images/gl1.jpg" style="object-fit: cover;">
     <br>
     <br>
     <div class="item_data"></div>
     </div>
     <div class="img_item">
-    <img class="hoho" src="/images/gl2.jpg">
+    <img class="inimg" src="/images/gl2.jpg">
     <br>
     <br>
     <div class="item_data"></div>
@@ -130,13 +130,13 @@ Chemistry requires patience, time, and diligence. Here are a few glimpses from o
 
 <div class="img_cont">
     <div class="img_item">
-    <img class="hoho" src="/images/gl3.jpg" style="object-fit: cover;">
+    <img class="inimg" src="/images/gl3.jpg" style="object-fit: cover;">
     <br>
     <br>
     <div class="item_data"></div>
     </div>
     <div class="img_item">
-    <img class="hoho" src="/images/gl4.jpg">
+    <img class="inimg" src="/images/gl4.jpg">
     <br>
     <br>
     <div class="item_data"></div>
