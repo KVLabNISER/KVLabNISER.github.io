@@ -28,18 +28,6 @@ permalink: /publications/
 
 <div class="container">
 <div class="item">
-<span class="blp">abcd</span>
-<span class="rp">45</span>
-<span class="bp"><em>67</strong></span>
-</div>
-<div class="item">
-<br>
-<a href="m.youtube.com">View</a>
-</div>
-</div>
-
-<div class="container">
-<div class="item">
 <span class="blp">108. Meher, S. K.; Velpuri, V. R.; Naikwade, S. R.; Peruncheralathan, S.; Venkatasubbaiah, K. </span>
 <span class="rp">KOH- Mediated Synthesis of Substituted Isothiazoles via Two-Component Annulation with Dithioate and Aryl Acetonitrile.</span>
 <span class="bp"><em>The Journal of Organic Chemistry </em><strong>2024.</strong></span>
